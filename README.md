@@ -5,7 +5,7 @@ Análise de dados de clientes e novos cadastros utilizando Python e Jupyter Note
 
 Este repositório reúne notebooks e bases de dados utilizadas para estudar o **perfil de clientes e novos cadastros**, com foco em análise exploratória, limpeza e visualização de métricas que auxiliam na tomada de decisão.
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 - `inicial.ipynb`: Primeiros passos e exploração inicial dos dados.
 - `codigo.ipynb`: Código principal com análises e cruzamento das bases.
 - `clientes.csv`: Base de clientes já existentes.
