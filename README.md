@@ -15,7 +15,6 @@ Este repositório reúne notebooks e bases de dados utilizadas para estudar o **
 - Python 3
 - Jupyter Notebook
 - Pandas, NumPy
-- Matplotlib, Seaborn
 
 ## Objetivo
 O objetivo é compreender melhor o perfil dos clientes, analisar a entrada de novos cadastros e gerar insights que apoiem estratégias de aquisição e retenção.
