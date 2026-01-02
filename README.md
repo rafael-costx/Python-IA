@@ -1,25 +1,49 @@
-# Python-IA
-Análise de dados de clientes e novos cadastros utilizando Python e Jupyter Notebooks. Inclui exploração, limpeza, cruzamento de bases e visualização de métricas para apoiar estratégias de retenção, aquisição e crescimento do negócio.
+# Python-AI
+## Customer and New Registration Data Analysis
 
-# Análise de Clientes e Novos Cadastros
+This project focuses on customer data analysis and new user registrations using Python and Jupyter Notebooks. It includes data exploration, cleaning, dataset merging, and metric visualization to support customer retention, acquisition, and business growth strategies.
 
-Este repositório reúne notebooks e bases de dados utilizadas para estudar o **perfil de clientes e novos cadastros**, com foco em análise exploratória, limpeza e visualização de métricas que auxiliam na tomada de decisão.
+## Customer and New Registration Analysis
 
-## Estrutura do Repositório
-- `inicial.ipynb`: Primeiros passos e exploração inicial dos dados.
-- `codigo.ipynb`: Código principal com análises e cruzamento das bases.
-- `clientes.csv`: Base de clientes já existentes.
-- `novos_clientes.csv`: Base de novos cadastros.
+This repository contains notebooks and datasets used to analyze customer profiles and new registrations. The main goal is to perform exploratory data analysis, data cleaning, and visualization of key metrics to assist data-driven decision-making.
 
-## Tecnologias Utilizadas
+## Repository Structure
+
+- inicial.ipynb – Initial data exploration and first insights
+- codigo.ipynb – Main analysis notebook, including data processing and dataset merging
+- clientes.csv – Dataset of existing customers
+- novos_clientes.csv – Dataset of new customer registrations
+
+## Technologies Used
+
 - Python 3
+
 - Jupyter Notebook
-- Pandas, NumPy
 
-## Objetivo
-O objetivo é compreender melhor o perfil dos clientes, analisar a entrada de novos cadastros e gerar insights que apoiem estratégias de aquisição e retenção.
+- Pandas
 
-## Como Usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
+- NumPy
+
+## Project Objective
+
+The objective of this project is to better understand customer behavior, analyze the inflow of new registrations, and generate insights that support customer acquisition and retention strategies.
+
+## How to Use
+
+Clone this repository:
+```
+git clone https://github.com/your-username/repository-name.git
+```
+
+Navigate to the project directory:
+```
+cd repository-name
+```
+
+Open the notebooks using Jupyter:
+
+jupyter notebook
+
+## Use Case
+
+This project is suitable for demonstrating skills in data analysis, data preprocessing, and business-oriented insights, making it ideal for portfolio and learning purposes.
